@@ -1,3 +1,7 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
 class Hero {
   private:
     string name;
